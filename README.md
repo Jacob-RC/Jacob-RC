@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate student at the University of Michigan majoring in business and computer science. I love combining business and computer science to look at problems from various angles to create unique solutions. I've dabbled in a variety of fields ranging from cybersecurity, network engineering, and web development.
+Cisco certified network engineer studying at the University of Michigan majoring in business and computer science. I love combining business and computer science to look at problems from various angles to create unique solutions. I've dabbled in a variety of fields ranging from cybersecurity, network engineering, and web development.
 
 
 ## 🌐 Socials:
